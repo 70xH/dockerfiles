@@ -1,3 +1,7 @@
 # Dockerfiles
 
-Im bored so I write dockerfiles with building own rootfs with buildroot (which might be inefficient)
+Dockerfiles with respective rootfs built with buildroot.
+
+## LICENSE
+
+> Open source under the terms of [MIT LICENSE](https://opensource.org/licenses/MIT)
